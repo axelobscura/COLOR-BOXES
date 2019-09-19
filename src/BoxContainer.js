@@ -5,7 +5,7 @@ import './BoxContainer.css';
 class BoxContainer extends Component{
   static defaultProps = {
     numBoxes: 18,
-    allColors: ['purple','magenta','violet','pink']
+    allColors: ['purple','magenta','violet','pink','yellow','black']
   }
 
   render(){
